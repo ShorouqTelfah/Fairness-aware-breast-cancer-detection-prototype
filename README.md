@@ -1,5 +1,5 @@
-This repository contains the dissertation, full IT artefact (including source code and evaluation pipeline), 
-and demonstration video for my MSc in Data Science and Artificial Intelligence at the University of Liverpool.
+This repository contains the dissertation, and full IT artefact (including source code and evaluation pipeline), 
+for my MSc in Data Science and Artificial Intelligence at the University of Liverpool.
 
 Artificial intelligence has recently been promoted as a promising tool for early breast cancer detection through automated mammogram analysis. 
 However, previous studies have shown some challenges with AI in medical images, mainly the presence of bias in AI models that negatively affect underrepresented groups defined by age and breast density type; 
